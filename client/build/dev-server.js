@@ -24,14 +24,14 @@ var proxyTable = config.dev.proxyTable
 
 var app = express()
 var compiler = webpack(webpackConfig)
-var router = express.Router();
-var goodsList = require('../mock/goods.json');
-
-router.get("/goods", function(req, res, next) {
-    res.json(goodsList);
-})
-
-app.use(router);
+// var router = express.Router();
+// var goodsList = require('../mock/goods.json');
+//
+// router.get("/goods", function(req, res, next) {
+//     res.json(goodsList);
+// })
+//
+// app.use(router);
 
 var devMiddleware = require('webpack-dev-middleware')(compiler, {
     publicPath: webpackConfig.output.publicPath,

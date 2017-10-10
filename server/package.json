@@ -3,18 +3,20 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "cross-env NODE_ENV=development ./node_modules/.bin/nodemon ./bin/www"
   },
   "dependencies": {
-    "body-parser": "~1.17.1",
-    "cookie-parser": "~1.4.3",
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
     "debug": "~2.6.3",
     "express": "~4.15.2",
-    "jade": "~1.11.0",
-    "morgan": "~1.8.1",
-    "serve-favicon": "~2.4.2"
+    "jade": "^1.11.0",
+    "morgan": "^1.8.2",
+    "serve-favicon": "^2.4.4"
   },
   "devDependencies": {
-    "mongoose": "^4.11.13"
+    "cross-env": "^5.0.5",
+    "mongoose": "^4.11.13",
+    "nodemon": "^1.12.1"
   }
 }

@@ -186,7 +186,7 @@ html {
   width: 20px;
   height: 20px; }
 .addr-list li .addr-set-default {
-  display: none; }
+  -display: none; }
 .addr-list li .addr-set-default, .addr-list li .addr-default {
   bottom: 18px;
   left: 20px;

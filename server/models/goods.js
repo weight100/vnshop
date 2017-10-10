@@ -8,4 +8,7 @@ var productSchema = new Schema({
     "productNum": String,
 })
 
+
+
+
 module.exports = mongoose.model("Goods", productSchema)
