@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Hello from '@/Components/Hello'
+// import Hello from '@/Components/Hello'
 import GoodsList from '@/view/GoodsList'
 import Cart from '@/view/Cart'
 import Address from '@/view/Address'
