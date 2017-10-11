@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="657f3324-1d20-46c0-bd15-de7b0934b813" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/router/index.js" afterPath="$PROJECT_DIR$/client/src/router/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/routes/goods.js" afterPath="$PROJECT_DIR$/server/routes/goods.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="goods.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="goods.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/routes/goods.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3420">
-              <caret line="95" column="34" lean-forward="false" selection-start-line="95" selection-start-column="33" selection-end-line="95" selection-end-column="34" />
+            <state relative-caret-position="180">
+              <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -77,13 +78,13 @@
         <entry file="file://D:/用户目录/我的文档/Tencent Files/578715208/FileRecv/1.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="302">
-              <caret line="112" column="14" lean-forward="true" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
+              <caret line="142" column="11" lean-forward="true" selection-start-line="142" selection-start-column="7" selection-end-line="142" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/router/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -150,7 +151,6 @@
         <option value="$PROJECT_DIR$/client/src/main.js" />
         <option value="$PROJECT_DIR$/server/app.js" />
         <option value="$PROJECT_DIR$/client/src/components/Modal.vue" />
-        <option value="$PROJECT_DIR$/server/routes/goods.js" />
         <option value="$PROJECT_DIR$/client/src/view/Cart.vue" />
         <option value="$PROJECT_DIR$/client/src/assets/css/checkout.css" />
         <option value="$PROJECT_DIR$/client/src/view/OrderConfirm.vue" />
@@ -161,6 +161,8 @@
         <option value="$PROJECT_DIR$/server/models/user.js" />
         <option value="$PROJECT_DIR$/client/src/view/Address.vue" />
         <option value="$PROJECT_DIR$/client/src/router/index.js" />
+        <option value="D:/用户目录/我的文档/Tencent Files/578715208/FileRecv/1.md" />
+        <option value="$PROJECT_DIR$/server/routes/goods.js" />
       </list>
     </option>
   </component>
@@ -181,7 +183,8 @@
     <handled-path value="$PROJECT_DIR$/server/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="396" />
+    <option name="x" value="-54" />
+    <option name="y" value="384" />
     <option name="width" value="1382" />
     <option name="height" value="741" />
   </component>
@@ -532,15 +535,15 @@
       <workItem from="1506734253991" duration="10104000" />
       <workItem from="1506998473056" duration="599000" />
       <workItem from="1507511510232" duration="10803000" />
-      <workItem from="1507597597351" duration="3656000" />
+      <workItem from="1507597597351" duration="5065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71104000" />
+    <option name="totallyTimeSpent" value="72513000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="396" y="0" width="1382" height="741" extended-state="0" />
+    <frame x="-54" y="384" width="1382" height="741" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11210762" sideWeight="0.7888889" order="0" side_tool="false" content_ui="combo" />
@@ -917,14 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/routes/goods.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3420">
-          <caret line="95" column="34" lean-forward="false" selection-start-line="95" selection-start-column="33" selection-end-line="95" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/Util/util.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -965,14 +960,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/用户目录/我的文档/Tencent Files/578715208/FileRecv/1.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="112" column="14" lean-forward="true" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/build/build.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -988,6 +975,22 @@
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/用户目录/我的文档/Tencent Files/578715208/FileRecv/1.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="142" column="11" lean-forward="true" selection-start-line="142" selection-start-column="7" selection-end-line="142" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/goods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
