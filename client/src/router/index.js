@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Hello from '@/components/Hello'
+import Hello from '@/Components/Hello'
 import GoodsList from '@/view/GoodsList'
 import Cart from '@/view/Cart'
-import Address from '@/view/address'
+import Address from '@/view/Address'
 import OrderConfirm from '@/view/OrderConfirm'
 import OrderSuccess from '@/view/OrderSuccess'
 Vue.use(Router)
